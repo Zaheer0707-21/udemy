@@ -395,3 +395,46 @@
    .bottem_p{
     margin-right: 20px;
    }
+
+    @media screen and (max-width:600px) {
+
+      body{
+        font-size: 10px;
+      }
+
+      .navbar_s2{
+        display: none;
+
+      }
+      .navbar_s3{
+        display: none;
+        
+      }
+      .navbar_2{
+        display: none;
+      }
+      .sale__box{
+        display: none;
+      }
+
+      .couse_card1{
+        width: 230px;
+
+      }
+
+      .couse_card2{
+        width: 230px;
+      }
+
+      .couse_card3{
+        width: 230px;
+      }
+
+      .couse_card4{
+        width: 230px;
+      }
+
+      .couse_card5{
+        width: 230px;
+      }
+    }
